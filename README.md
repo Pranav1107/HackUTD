@@ -21,6 +21,6 @@ After acquiring the data run the LSTM model on the dataset (historical + sentime
 https://colab.research.google.com/drive/1I3vo_vIU4XDCh3-hENs8xDcU2x7nLKJq?usp=sharing 
 
 
-![alt text](https://github.com/Pranav1107/HackUTD/blob/main/DesignDiagrams/domain_model.jpg?raw=true)
-![alt text](https://github.com/Pranav1107/HackUTD/blob/main/DesignDiagrams/classDiagram.jpg?raw=true)
-![alt text](https://github.com/Pranav1107/HackUTD/blob/main/DesignDiagrams/sequenceDiagram.jpg?raw=true)
+![alt text](https://github.com/Pranav1107/HackUTD/blob/main/DesignDiagrams/domain_model.png?raw=true)
+![alt text](https://github.com/Pranav1107/HackUTD/blob/main/DesignDiagrams/classDiagram.png?raw=true)
+![alt text](https://github.com/Pranav1107/HackUTD/blob/main/DesignDiagrams/sequenceDiagram.png?raw=true)
